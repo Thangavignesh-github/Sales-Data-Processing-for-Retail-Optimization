@@ -1,0 +1,6 @@
+"Activity name","Activity status","Error","Activity type","Run start","Duration","Integration runtime","User properties","Activity run ID","Log"
+"sales by product","Succeeded","","Copy","11/18/2024, 10:31:10 PM","24s","AutoResolveIntegrationRuntime (East US)","{}","d09b5224-0675-4a6a-a9ba-c1d48ac01f58",""
+"sales data by location","Succeeded","","Copy","11/18/2024, 10:31:10 PM","32s","AutoResolveIntegrationRuntime (East US)","{}","a29c569c-e248-47c1-91b4-07011a28ed4f",""
+"data transformation","Succeeded","","Copy","11/18/2024, 10:30:52 PM","17s","AutoResolveIntegrationRuntime (East US)","{}","c8705a20-7dd4-4e1a-8519-d308e29eb338",""
+"data cleaning","Succeeded","","Copy","11/18/2024, 10:30:31 PM","20s","AutoResolveIntegrationRuntime (East US)","{}","85bffc9c-eaab-44f3-96b2-a4717ff1afc2",""
+"sales","Succeeded","","Copy","11/18/2024, 10:30:17 PM","13s","AutoResolveIntegrationRuntime (East US)","{}","bd36cfbc-9ebf-4380-bbd9-4cde6c0cddac",""
